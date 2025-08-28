@@ -4,6 +4,7 @@ title: Research
 permalink: /research/
 description: Click a project to read more.
 nav: true
+published: true
 nav_order: 2
 # display_categories: [work, fun]
 horizontal: false
