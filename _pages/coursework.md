@@ -10,7 +10,6 @@ horizontal: false
 ---
 University of Florida  
 Bachelor of Science in Electrical Engineering  
-Minor in Economics  
 Expected May 2026  
   
 ## Machine Learning & Data Science  
