@@ -2,7 +2,7 @@
 layout: page
 title: Literature Review on Adversarial Machine Learning (FINS)
 description: Surveying adversarial ML research with a focus on security applications.
-img: /assets/img/projects/adversarial.jpg
+img: /assets/img/fins_logo.jpg
 importance: 2
 permalink: /projects/fins-adversarial/
 ---

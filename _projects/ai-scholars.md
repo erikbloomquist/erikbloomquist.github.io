@@ -2,7 +2,7 @@
 layout: page
 title: ML for Markets (AI Scholars)
 description: Combining machine learning with stock-market analysis and trading.
-img: assets/img/12.jpg
+img: assets/img/ai2_center.jpg
 importance: 1
 # category: work
 related_publications: false

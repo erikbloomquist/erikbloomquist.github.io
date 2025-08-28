@@ -2,7 +2,7 @@
 layout: page
 title: Interpretable Reinforcement Learning (FINS)
 description: Poster presentation on interpretability methods for RL.
-img: /assets/img/projects/interpretable-rl.jpg
+img: /assets/img/fins_poster_presentation.jpg
 importance: 3
 permalink: /projects/fins-interpretable-rl/
 ---
