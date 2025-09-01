@@ -17,4 +17,7 @@ This project is a literature review examining recent advances in adversarial mac
 ### Responsibilities
 I am compiling and synthesizing findings from leading conferences and journals in ML and security, organizing them into themes that will inform future projects at FINS. This work is ongoing and aims to provide both a technical overview and practical insights for research directions.  
 
+![Adversarial panda example](/assets/img/projects/Adversarial_Panda.png){: .img-fluid .rounded }
+
+*Figure adapted from Goodfellow, Shlens, and Szegedy (2015), "Explaining and Harnessing Adversarial Examples".*
 ---

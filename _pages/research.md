@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-description: Click a project to read more.
+description: Click a project to read more
 nav: true
 published: true
 nav_order: 2

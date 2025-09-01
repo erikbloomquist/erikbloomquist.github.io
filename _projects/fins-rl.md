@@ -17,4 +17,8 @@ This project investigated interpretability techniques for reinforcement learning
 ### Responsibilities
 I developed a poster presentation that summarized methods for explaining RL policies, highlighting visualization strategies and evaluation metrics. The presentation was delivered as part of the UF Undergraduate Research Symposium and emphasized the importance of interpretability for real-world applications of RL.  
 
+<object data="/assets/pdf/Symposium_Poster.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Your browser does not support PDFs. 
+    <a href="/assets/pdf/Symposium_Poster.pdf">Download the PDF</a>.</p>
+</object>
 ---
