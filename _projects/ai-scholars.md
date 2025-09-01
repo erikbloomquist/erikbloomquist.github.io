@@ -19,4 +19,8 @@ This project, conducted through UF’s AI Scholars Program, explores the use of 
 ### Responsibilities
 I am currently designing the experimental framework, identifying baseline models, and surveying literature on ML in finance. The project is in its early stages, and as it develops, I will refine methods, evaluate algorithms, and present findings.  
 
----
+
+
+![Sharpe ratio portfolio optimization plot](/assets/img/ml_markets_media.png){: .img-fluid .rounded }
+
+*Illustrative scatter of random portfolios with the max-Sharpe portfolio highlighted.*
