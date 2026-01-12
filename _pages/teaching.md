@@ -7,6 +7,14 @@ nav: true
 nav_order: 3
 ---
 
+##### Undergraduate Teaching Assistant: EEE5776/EEL5934/EEL4930- Applied Machine Learning
+- Instructor: Dr. Catia Silva  
+- Semesters taught: Spring 2026
+- Hosted weekly office hours for 75 undergraduate and graduate students
+- Graded analytical problem sets, Jupyter Notebooks, project reports, and exams
+- Course topics include implementation of various regression, classification, clustering, and dimensionality reduction algorithms using Scikit-Learn. Pytorch is used to implement deep learning architectures including MLPs, CNNs, RNNs, and autoencoders.
+- [See syllabus here](https://msads.eng.ufl.edu/wp-content/uploads/sites/185/2024/11/EGN-5776-Applied-ML-I.pdf)
+
 ##### Undergraduate Teaching Assistant: EEL5840/EEE4773- Fundamentals of Machine Learning
 - Instructor: Dr. Catia Silva  
 - Semesters taught: Fall 2025, Spring 2025, Fall 2024  
