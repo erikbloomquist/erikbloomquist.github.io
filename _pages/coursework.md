@@ -17,7 +17,7 @@ Expected May 2026
 - **Applied Machine Learning Systems** (EEL5934/EEL4930)*: End-to end ML pipelines, model evaluation, ensemble methods
 - **Formal Methods in Robotics and AI** (EEL5934/EEL4930)*: Formal logic, automata theory, Markov Decision Processes
 - **Data Science for ECE** (EEL3850): Statistical tests, random variables, linear algebra, Python implementation
-- **Programming for Electrical Engineering 2** (EEL4837)#: data structures and algorithms using C++
+- **Programming for Electrical Engineering 2** (EEL4837)#: Data structures and algorithms using C++
 - **C++ Programming for Engineers** (COP2274): OOP, pointers, data structures, numerical computing
 
 ## Signals & Systems  
