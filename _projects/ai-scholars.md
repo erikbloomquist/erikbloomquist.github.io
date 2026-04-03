@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ML for Markets (AI Scholars)
-description: Combining machine learning with stock-market analysis and trading.
+title: Spectral Feature Extraction for RL in Financial Markets
+description: Combining frequency-domain with reinforcement learning for asset trading.
 img: assets/img/ai2_center.jpg
 importance: 1
 # category: work
@@ -11,19 +11,14 @@ permalink: /projects/ai-scholars-trading/
 
 **PI / Advisor:** Dr. Catia Silva  
 **Institution / Department:** University of Florida, Department of Electrical and Computer Engineering  
-**Timeframe:** August 2025–present (Expected Completion May 2026)
+**Timeframe:** August 2025 – April 2026
 
 ### Research Focus
-This project, conducted through UF’s AI Scholars Program, explores the use of machine learning techniques to analyze financial markets and inform trading decisions. The work is focused on balancing predictive performance with interpretability, aiming to highlight both the potential and limitations of ML in high-variance domains like finance.  
-
+This project focuses on reinforcement learning for financial trading, with an emphasis on building agents that make decisions from informative market features rather than raw price movements alone. We explore how spectral and time-domain representations of market behavior can improve generalization, robustness, and interpretability in trading policies.
 ### Responsibilities
-I am currently designing the experimental framework, identifying baseline models, and surveying literature on ML in finance. The project is in its early stages, and as it develops, I will refine methods, evaluate algorithms, and present findings.  
+I conducted the literature review, designed and implemented the reinforcement learning experiments, and analyzed how different feature and reward formulations affected trading performance. I also synthesized the results into a formal research paper, including the experimental methodology, evaluation, and discussion of the project’s broader implications.
 
-<figure class="figure">
-  <img src="/assets/img/ml_markets_media.png"
-       alt="Random portfolios with max-Sharpe highlighted"
-       class="figure-img img-fluid rounded">
-  <figcaption class="figure-caption text-center">
-    Illustrative scatter of random portfolios with the max-Sharpe portfolio highlighted.
-  </figcaption>
-</figure>
+<object data="/assets/pdf/SpecFeats_Poster_v2.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Your browser does not support PDFs. 
+    <a href="/assets/pdf/SpecFeats_Poster_v2.pdf">Download the PDF</a>.</p>
+</object>
