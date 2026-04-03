@@ -398,7 +398,7 @@ ninja.data = [{
           title: 'Spectral Feature Extraction for RL in Financial Markets',
           description: "Combining frequency-domain with reinforcement learning for asset trading.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/ai-scholars-trading/";
+              window.location.href = "/projects/rl-trading/";
             },},{id: "projects-literature-review-on-adversarial-machine-learning-fins",
           title: 'Literature Review on Adversarial Machine Learning (FINS)',
           description: "Surveying adversarial ML research with a focus on security applications.",
