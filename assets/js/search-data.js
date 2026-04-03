@@ -394,9 +394,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-ml-for-markets-ai-scholars",
-          title: 'ML for Markets (AI Scholars)',
-          description: "Combining machine learning with stock-market analysis and trading.",
+          section: "News",},{id: "projects-spectral-feature-extraction-for-rl-in-financial-markets",
+          title: 'Spectral Feature Extraction for RL in Financial Markets',
+          description: "Combining frequency-domain with reinforcement learning for asset trading.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ai-scholars-trading/";
             },},{id: "projects-literature-review-on-adversarial-machine-learning-fins",
