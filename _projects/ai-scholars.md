@@ -2,11 +2,11 @@
 layout: page
 title: Spectral Feature Extraction for RL in Financial Markets
 description: Combining frequency-domain with reinforcement learning for asset trading.
-img: assets/img/ai2_center.jpg
+img: assets/img/SpectralFeatures_Cover.png
 importance: 1
 # category: work
 related_publications: false
-permalink: /projects/ai-scholars-trading/
+permalink: /projects/rl-trading/
 ---
 
 **PI / Advisor:** Dr. Catia Silva  
