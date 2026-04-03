@@ -9,7 +9,7 @@ last_name: Bloomquist
 contact_note: >
  The best way to reach me is via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Undergraduate Machine Learning Researcher. Aspiring PhD Student.
+  Incoming PhD Student at The Ohio State University.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -48,10 +48,10 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+search_enabled: false
+socials_in_search: false
+posts_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 930px
