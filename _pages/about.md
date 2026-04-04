@@ -32,4 +32,4 @@ I'm currently finishing a research project through UF's [AI Scholars Program](ht
 
 Outside of research, I have served as an undergraduate [teaching assistant](https://erikbloomquist.github.io/teaching/) for courses in machine learning and circuits. I'm also an avid musician and have performed with several groups, including the [UF Jazz Ensemble](https://www.ufjazz.com/) and [7 Degrees Brassband](https://www.7degreesbrassband.com/).
 
-Upon graduation, I will begin a PhD program at [The Ohio State University](https://www.osu.edu/) with [Dr. Zak Kassas](https://ece.osu.edu/people/kassas.2) in the [ASPIN Lab](https://ece.osu.edu/aspin).
+Upon graduation, I am excited to begin a PhD program at [The Ohio State University](https://www.osu.edu/) with [Dr. Zak Kassas](https://ece.osu.edu/people/kassas.2) in the [ASPIN Lab](https://ece.osu.edu/aspin)!

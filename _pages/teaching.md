@@ -13,7 +13,6 @@ nav_order: 3
 - Hosted weekly office hours for 75 undergraduate and graduate students
 - Graded analytical problem sets, Jupyter Notebooks, project reports, and exams
 - Course topics include implementation of various regression, classification, clustering, and dimensionality reduction algorithms using Scikit-Learn. Pytorch is used to implement deep learning architectures including MLPs, CNNs, RNNs, and autoencoders.
-- [See syllabus here](https://msads.eng.ufl.edu/wp-content/uploads/sites/185/2024/11/EGN-5776-Applied-ML-I.pdf)
 
 ##### Undergraduate Teaching Assistant: EEL5840/EEE4773- Fundamentals of Machine Learning
 - Instructor: Dr. Catia Silva  
@@ -22,7 +21,6 @@ nav_order: 3
 - Graded analytical problem sets, Python implementations, final projects, and exams  
 - Created exam questions and proctored exams  
 - Course topics include Bayesian learning, generative models, clustering, discriminative classification, dimensionality reduction, manifold learning, neural networks, and deep learning  
-- [See syllabus here](https://www.ece.ufl.edu/wp-content/uploads/syllabi/Fall2024/EEE4773FundamentalsofML_Fall2024.pdf)
 
 ##### Undergraduate Teaching Assistant: EEL3003- Elements of Electrical Engineering
 - Instructor: Dr. Lilianny Virguez  
@@ -30,4 +28,3 @@ nav_order: 3
 - Hosted weekly office hours for 1000+ undergraduate students across 5 semesters  
 - Graded analytical problem sets and Arduino build reports  
 - Course topics include AC & DC circuit analysis, Arduino integration, and basic C++ programming  
-- [See syllabus here](https://eed.eng.ufl.edu/academics/courses/eel3003/)
