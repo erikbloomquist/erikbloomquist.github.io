@@ -16,7 +16,7 @@ Selected graduate coursework in control, signal processing, computer vision, mac
 ### Control, Signal Processing, and Computer Vision
 
 - **Probability and Random Variables** *(ECE 6001)* — Functions of random variables and vectors, characteristic functions, Markov models
-- **Advanced Topics in Signal Processing** *(ECE 8201)* — Radio navigation, GNSS, signal processing for positioning, and estimation methods
+- **Advanced Topics in Signal Processing** *(ECE 8201)* — Radio navigation, GNSS, signal processing for positioning, estimation methods
 ---
 
 ## University of Florida  
