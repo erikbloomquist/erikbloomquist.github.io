@@ -26,10 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-My name is Erik Bloomquist, and I am a recent graduate of the [Department of Electrical and Computer Engineering](https://www.ece.ufl.edu//) at the University of Florida. My research interests lie at the intersection of mathematics, probability, and machine learning. I'm especially drawn to problems involving interpretability, robustness, and theoretical foundations of ML algorithms.
+My name is Erik Bloomquist, and I am an incoming Ph.D. student in the [Department of Electrical and Computer Engineering](https://ece.osu.edu/) at The Ohio State University. I will be a member of the [ASPIN Lab](https://ece.osu.edu/aspin), advised by [Dr. Zak Kassas](https://ece.osu.edu/people/kassas.2).
 
-I recently finished a research project through UF's [AI Scholars Program](https://ai.ufl.edu/for-our-students/meet-scholars/biography/erik-bloomquist.html), advised by [Dr. Catia Silva](https://www.ece.ufl.edu/people/faculty/catia-silva/), where I investigated ways to [combine spectral information with reinforcement learning for trading in financial markets](https://erikbloomquist.github.io/projects/rl-trading/).
+I received my B.S. in Electrical Engineering from the [University of Florida](https://ece.ufl.edu/), where I worked with [Dr. Catia Silva](https://www.ece.ufl.edu/people/faculty/catia-silva/) through the [AI Scholars Program](https://ai.ufl.edu/for-our-students/meet-scholars/biography/erik-bloomquist.html). My research investigated methods for [combining spectral information with reinforcement learning for financial-market trading](https://erikbloomquist.github.io/projects/rl-trading/).
 
-Outside of research, I have served as an undergraduate [teaching assistant](https://erikbloomquist.github.io/teaching/) for courses in machine learning and circuits. I'm also an avid musician and have performed with several groups, including the [UF Jazz Ensemble](https://www.ufjazz.com/) and [7 Degrees Brassband](https://www.7degreesbrassband.com/).
-
-This fall, I am excited to begin a PhD program at [The Ohio State University](https://www.osu.edu/) with [Dr. Zak Kassas](https://ece.osu.edu/people/kassas.2) in the [ASPIN Lab](https://ece.osu.edu/aspin)!
+My research interests lie at the intersection of **probability, statistical signal processing, and machine learning**. In particular, I hope to use probability and signal processing to help autonomous systems reason reliably under uncertainty.
