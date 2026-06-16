@@ -2,14 +2,10 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: My teaching experiences
+description: Teaching experience in electrical engineering, machine learning, programming, and circuit analysis.
 nav: true
 nav_order: 3
 ---
-
-## Teaching
-
-Teaching experience in electrical engineering, machine learning, programming, and circuit analysis.
 
 ### Applied Machine Learning  
 **Undergraduate Teaching Assistant, University of Florida** · EEE5776/EEL5934/EEL4930 · Spring 2026  
