@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "My teaching experiences",
+          description: "Teaching experience in electrical engineering, machine learning, programming, and circuit analysis.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
